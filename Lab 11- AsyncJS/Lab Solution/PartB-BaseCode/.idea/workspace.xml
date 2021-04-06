@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f608941c-9079-43a1-8043-95f2dbea978e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project1.js" beforeDir="false" afterPath="$PROJECT_DIR$/project1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project2.js" beforeDir="false" afterPath="$PROJECT_DIR$/project2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3.js" beforeDir="false" afterPath="$PROJECT_DIR$/project3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4.js" beforeDir="false" afterPath="$PROJECT_DIR$/project4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project5.js" beforeDir="false" afterPath="$PROJECT_DIR$/project5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project6.js" beforeDir="false" afterPath="$PROJECT_DIR$/project6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +55,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.project5.js">
-    <configuration name="project1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/project1.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.project6.js">
+    <configuration name="project2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/project2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="project2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/project2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="project3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/project3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="project4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/project4.js" working-dir="$PROJECT_DIR$">
@@ -69,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.project5.js" />
-        <item itemvalue="Node.js.project2.js" />
-        <item itemvalue="Node.js.project1.js" />
         <item itemvalue="Node.js.project6.js" />
+        <item itemvalue="Node.js.project5.js" />
         <item itemvalue="Node.js.project4.js" />
+        <item itemvalue="Node.js.project3.js" />
+        <item itemvalue="Node.js.project2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +106,6 @@
       <updated>1585680796566</updated>
       <workItem from="1585680800209" duration="11594000" />
       <workItem from="1617621156914" duration="6621000" />
-      <workItem from="1617719183163" duration="3938000" />
     </task>
     <servers />
   </component>
@@ -119,6 +122,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
